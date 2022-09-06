@@ -1,0 +1,2 @@
+Prefix plugins/MetaboliteTranspose/example
+Plugin MetaboliteTranspose inputfile metabolon_HMDB.csv outputfile metabolon_HMDB.transpose.csv
